@@ -2,7 +2,7 @@
 - 👀 I’m new to coding and i'm interested in backend programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on any backend related project 
-- 📫 How to reach me on tell/Whatsapp: +2347033300647 and @boi_thompson456 on Twitter 
+- 📫 You can reach me on tell/Whatsapp: +2347033300647 and @boi_thompson456 on Twitter 
 
 <!---
 Korede456/Korede456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
