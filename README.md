@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Korede456
-- 👀 I’m a Frontend web developer 
-- 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on any Frontend related project 
+- 👀 software engineer currently a student at ALX-SE program
+- 🌱 I’m currently learning c programing
+- 💞️ I’m looking to collaborate on any interesting project 
 - 📫 You can reach me on tell/Whatsapp: +2347033300647 and @boi_thompson456 on Twitter 
 
 <!---
